@@ -1,0 +1,15 @@
+{
+    "name": "notion-google-sheets-sync",
+    "version": "1.0.0",
+    "description": "Sync data between Notion and Google Sheets",
+    "main": "main.js",
+    "scripts": {
+      "start": "node main.js"
+    },
+    "dependencies": {
+      "@notionhq/client": "^0.4.13",
+      "dotenv": "^16.0.0",
+      "googleapis": "^95.0.0"
+    }
+  }
+  
